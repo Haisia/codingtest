@@ -33,5 +33,7 @@
 ### 출력 
 
  <p>10,000보다 작거나 같은 셀프 넘버를 한 줄에 하나씩 증가하는 순서로 출력한다.</p>
+ 
+### 알고리즘 
 
 <img width="80%" src="https://user-images.githubusercontent.com/110602188/183052995-73e8e9fc-8b73-4e7e-a8ed-3f424d756b12.JPG"/>
