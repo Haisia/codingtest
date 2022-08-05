@@ -22,3 +22,6 @@
 
  <p>첫째 줄에 1보다 크거나 같고, N보다 작거나 같은 한수의 개수를 출력한다.</p>
 
+### 알고리즘 설계
+
+<img width="80%" src="https://user-images.githubusercontent.com/110602188/183063495-200f673d-7b10-44ad-beff-1a5526a58215.JPG"/>
